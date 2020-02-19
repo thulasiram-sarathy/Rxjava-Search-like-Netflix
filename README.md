@@ -35,6 +35,7 @@ switchMap is as powerful operator very much like other operators. Suppose if the
 
 ### Epoxy Implementation:
 Epoxy is an Android library for building complex screens in a RecyclerView.</br>
+
 <b>build.gradle</b>
 ```
     dependencies {
