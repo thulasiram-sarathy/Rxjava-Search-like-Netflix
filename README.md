@@ -33,7 +33,7 @@ distinctUntilChanged operator is used to avoid unnecessary or identical network 
 <b>SwitchMap</b>: Returns a new ObservableSource by applying a function that you supply to each item emitted by the source ObservableSource that returns an ObservableSource, and then emitting the items emitted by the most recently emitted of these ObservableSources.</br>
 switchMap is as powerful operator very much like other operators. Suppose if the search query is “Dunk “ and the network call is made and the observer is subscribed for this result and in the meantime another query is made which is for “Dunkr” and a network call is again made, what the switchMap operator does is that it helps the observer to be subscribed to the latest query which is “Dunkr” since the network response for the query “Dunk” is no longer required.</br></br>
 
-###Epoxy Implementation:
+### Epoxy Implementation:
 Epoxy is an Android library for building complex screens in a RecyclerView.</br>
 <b>build.gradle</b>
 ```
