@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="search_bottom">55dp</dimen>
+    <dimen name="margin">5dip</dimen>
+
+</resources>
