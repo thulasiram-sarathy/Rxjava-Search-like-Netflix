@@ -8,7 +8,7 @@ In this article I have implemented Android search using RxJava for instant searc
 
 ## Getting started
 
-### Demo link:  https://www.youtube.com/watch?v=Y5HfU2YuNFQ
+### Demo link: <a href="https://www.youtube.com/watch?v=Y5HfU2YuNFQ" target="_blank">Check here!!!</a>
 
 ### Usages:
 1. RxJava
